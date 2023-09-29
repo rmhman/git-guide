@@ -173,6 +173,7 @@ Trying to resolve merge conflicts in shared branches (master, develop, etc.) can
 
 ## Extras
 
+* [I like Trunk](https://www.abtasty.com/blog/git-branching-strategies/)
 * [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
 * [Mac tab completion](http://stackoverflow.com/questions/12399002/how-to-configure-git-bash-command-line-completion)
 
